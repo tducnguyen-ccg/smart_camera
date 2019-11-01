@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/tducnguyen/NguyenTran/Study/8_Yolo/darknet/scripts/train.txt
+valid  = /home/tducnguyen/NguyenTran/Study/8_Yolo/darknet/scripts/2007_test.txt
+names = /home/tducnguyen/NguyenTran/Study/8_Yolo/darknet/data/voc.names
+backup = backup
+
